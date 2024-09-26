@@ -47,3 +47,6 @@ Covers how teams can work together with Terraform and how to set up CI/CD pipeli
 --
 
 https://photos.google.com/share/AF1QipM6rpv79q0oexe-kUpXLOpJRqn206yMMlQCeT3r8amiO1Z_oI8Yq0IY1cvGgeA7Xw?pli=1&key=eHg0bnFkdjhObDRCMzlXaGtKWjRhTTY0bUJuUG5R
+
+--
+https://photos.app.goo.gl/k64eSk1kqxVByZUb9
